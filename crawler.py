@@ -72,7 +72,7 @@ def crawl(url, keywords):
     return posts
 
 if __name__=='__main__':
-    posts = crawl('http://vg.no', ['kropp', 'snegl', 'slik'])
+    posts = crawl('http://vg.no', ['kropp', 'snegl', 'slik', 'triks'])
     for p in posts:
         print posts[p]['title']
 
