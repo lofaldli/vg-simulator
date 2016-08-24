@@ -12,13 +12,15 @@ def main():
                 'miss universe',
                 'frøken norge',
                 'sex',
-                'trikset',
+                'triks',
                 'pokemon',
                 'undertøy',
                 'hollywood',
                 'kjendis',
                 'øvelse',
-                'slik'
+                'slik',
+                'slank',
+                'digg'
             ]
 
     old_posts = database.get_posts()

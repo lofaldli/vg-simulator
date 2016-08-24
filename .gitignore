@@ -1,3 +1,4 @@
 SECRETS.json
 *.pyc
 *.db
+*.log
